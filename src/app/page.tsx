@@ -3,7 +3,7 @@ export default function Home() {
     <div className="relative min-h-screen flex items-center justify-center overflow-hidden">
       <div 
         className="absolute inset-0 bg-cover bg-center bg-no-repeat opacity-40"
-        style={{ backgroundImage: 'url(/images/subagency-bg.jpg)' }}
+        style={{ backgroundImage: 'url(/subagency-bg.jpg)' }}
       />
       
       <div className="absolute inset-0 bg-gradient-to-b from-black/60 via-black/80 to-black/90" />
